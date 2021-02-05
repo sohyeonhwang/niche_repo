@@ -4,9 +4,9 @@ This is a repo to keep track of some files for the niche communities project.
 * The `data` and `subreddit_selection` folders have various data files that were used to figure out a set of subreddits to recruit from. Most of the stuff in `data` is a repeat of `subreddit_selection`. 
 
 ## not here but on Hyak
-Lots of data files that might be related to processing but too big to put on repo are on Hyak. Can be accessed: ``. For example:
+Lots of data files that might be related to processing but too big to put on repo are on Hyak. Can be accessed: `/usr/lusers/sohw/niche`. For example:
 
-* `2020-11-06-encoded.csv`, which is from `https://frontpagemetrics.com/list-all-subreddits
+* `2020-11-06-encoded.csv`, which is from `https://frontpagemetrics.com/list-all-subreddits, is there
 
 ## directories
 In `data`:
