@@ -1,0 +1,4 @@
+./data/subreddit_data_2020_fromcharlie.csv
+./data/reddit_users_per_subreddit_gt4_comments_201701.csv
+./data/all_subreddits.tsv
+./data/filtered_small_subreddits.tsv
