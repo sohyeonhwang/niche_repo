@@ -4,3 +4,15 @@ data/all_subreddits.tsv
 data/filtered_small_subreddits.tsv
 data/2020-11-06.csv
 data/2020-11-06-encoded.csv
+subreddit_selection/20201106encoded_and_filtered_overlap.tsv
+subreddit_selection/all_subreddits.tsv
+subreddit_selection/data
+subreddit_selection/filtered_avg_small_subreddits.tsv
+subreddit_selection/filtered_small_subreddits.tsv
+subreddit_selection/key_out_comments.tsv
+subreddit_selection/out_comments.tsv
+subreddit_selection/subreddit_data_2020_fromcharlie.csv
+subreddit_selection/subreddit_id_ALLkeys.tsv
+subreddit_selection/subreddit_id_key
+subreddit_selection/tasklist_rcomments
+subreddit_selection/tasklist_rsubmissions
